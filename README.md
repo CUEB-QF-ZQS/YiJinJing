@@ -1,6 +1,11 @@
 # ✨ 易金经——LLM驱动下融合数据底座和智能投资的金融服务解决方案
 ### Yi Jin Jing: An LLM-driven financial service solution integrating data foundation and intelligent investment
 
+<p align="center">
+  <a href="README.md">🇨🇳 中文版</a> |
+  <a href="README_en.md">🇬🇧 English Version</a>
+</p>
+
 ## 🧠 项目背景与设计理念
 
 “易金经”的命名灵感源于中国古籍《易筋经》。
