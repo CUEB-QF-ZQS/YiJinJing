@@ -207,6 +207,8 @@ MEHGT（Multimodal Edge-enhanced Heterogeneous Graph Transformer）边增强的�
 
 ---
 
+APP代码详见链接：https://github.com/tyanshang-ai/YiJinJing
+
 
 # ⚠️ 注意事项
 
